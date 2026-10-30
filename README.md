@@ -330,17 +330,4 @@ Using the model data above, the program output matches the hand-calculated mathe
 
 ---
 
-## 👨‍💻 Author
-
-<div align="center">
-
-**Mayur**
-B.Tech Computer Science & Engineering, Sanjivani College of Engineering, Shirdi
-
-[![GitHub](https://img.shields.io/badge/GitHub-engineermayur--07-181717?style=for-the-badge&logo=github)](https://github.com/engineermayur-07)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mgund1920-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mgund1920)
-[![Blog](https://img.shields.io/badge/Blog-engineermayur.blogspot.com-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://engineermayur.blogspot.com)
-
-⭐ If you found this project helpful, consider giving it a star!
-
-</div>
+ 
