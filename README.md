@@ -4,7 +4,7 @@
 
 <br/>
 
-![C++](https://img.shields.io/badge/C%2B%2B-STL-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Cpp](https://img.shields.io/badge/C%2B%2B-STL-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Discrete Math](https://img.shields.io/badge/Discrete-Mathematics-8A2BE2?style=for-the-badge)
 ![Set Theory](https://img.shields.io/badge/Set-Theory-orange?style=for-the-badge)
 ![Console App](https://img.shields.io/badge/Interface-Console-black?style=for-the-badge&logo=gnubash&logoColor=white)
